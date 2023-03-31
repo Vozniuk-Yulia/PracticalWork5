@@ -1,0 +1,15 @@
+E:\knute\oop\laboratory11\PracticalWork5\Task2\bin\Debug\net6.0\Task2.exe
+E:\knute\oop\laboratory11\PracticalWork5\Task2\bin\Debug\net6.0\Task2.deps.json
+E:\knute\oop\laboratory11\PracticalWork5\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+E:\knute\oop\laboratory11\PracticalWork5\Task2\bin\Debug\net6.0\Task2.dll
+E:\knute\oop\laboratory11\PracticalWork5\Task2\bin\Debug\net6.0\ref\Task2.dll
+E:\knute\oop\laboratory11\PracticalWork5\Task2\bin\Debug\net6.0\Task2.pdb
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.dll
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\ref\Task2.dll
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.pdb
+E:\knute\oop\laboratory11\PracticalWork5\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
